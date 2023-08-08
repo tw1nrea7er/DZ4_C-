@@ -1,0 +1,15 @@
+D:\dz4_c#\task25\bin\Debug\net7.0\task25.exe
+D:\dz4_c#\task25\bin\Debug\net7.0\task25.deps.json
+D:\dz4_c#\task25\bin\Debug\net7.0\task25.runtimeconfig.json
+D:\dz4_c#\task25\bin\Debug\net7.0\task25.dll
+D:\dz4_c#\task25\bin\Debug\net7.0\task25.pdb
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.csproj.AssemblyReference.cache
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.AssemblyInfoInputs.cache
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.AssemblyInfo.cs
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.csproj.CoreCompileInputs.cache
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.dll
+D:\dz4_c#\task25\obj\Debug\net7.0\refint\task25.dll
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.pdb
+D:\dz4_c#\task25\obj\Debug\net7.0\task25.genruntimeconfig.cache
+D:\dz4_c#\task25\obj\Debug\net7.0\ref\task25.dll
